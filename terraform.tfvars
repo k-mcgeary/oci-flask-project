@@ -1,0 +1,7 @@
+region           = "us-ashburn-1" 
+tenancy_ocid     = "ocid1.tenancy.oc1..aaaaaaaa4ftxzaqdprnozirmc5y7pvbrbhhotybk5xifshg6vacaa2iagtaq"
+user_ocid        = "ocid1.user.oc1..aaaaaaaadtyqujrztpsm6lkkurmulpsx2wbqbjpe6emfkgo47czyjxsbwoxq"
+fingerprint      = "fe:63:9d:d7:2e:94:83:08:19:bb:36:ce:ea:69:9e:f7"
+private_key_path = "/home/oracle/.oci/oci_api_key.pem"
+compartment_ocid = "ocid1.tenancy.oc1..aaaaaaaa4ftxzaqdprnozirmc5y7pvbrbhhotybk5xifshg6vacaa2iagtaq"
+ssh_public_key   = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCn/o9ffPxVEllDnt28AaK0975CLTvhwRU0FAmo0UUUia6yyXFkppJQBmP9GUnkglOQL0dsNd5ekNalwDTmJJl7uazpf4lWAASdmrfg74ITrSPu6ClOVvAxCelYA3Xsy8JwEXlGvNrcOWYLccs+pHwyzsP5ae8MRovt/DACY09kuxBQARFgAPjbPFBmiEUJEnAs5Du45Aucoi8shBqKzvqMT3yJObpIAoBF1AO/F/9+u3k1YXVJ4GS+BwUcY5+aa7R5y5GROOxDSaDtIXkM81ESgV9gm+YnWeS11zNrcwktVuu8Oafb4KbpyNKQpBKxCSScEag/VS52o3ZJvfGJ1YQj6dmJQGACpSTlHlq1ahzVdvNx7pvnAc0PcjF0ujmM3Cmo+YW1HZYORBtzp1nBY75umSSYkqfjDWzqOaQ/pUnBa7vIadR2BTpCAdyNP6Igiy/mqLdLBfxARB5BItp7QQiC4/0hKmIushRkWE4hAXox9rwyZZSR8gvBjm89JpnQyAmo3ovpFNqxipjoqSzO0+duakkdV+cvNPkO21XkNAzxws1dsnOFxL/R3dCwtLLm1otpiAT+IL9On/cwL37wE5AraQQB+3xm4hwHyPh0MxgjcT/h/5WThmbgow2XYKKyk+domGNMgHwXfNz5I+0w+TTSuEgCJRoi+04EMvuNQUIcJw== oracle@localhost.localdomain"
